@@ -1,3 +1,9 @@
-const sum = (a: number, b: number) => a + b;
+const sume = (a: number, b: number): number => a + b;
 
-console.log(sum(2, 3));
+let valueOne: number;
+let valueTwo: number;
+
+valueOne = 20;
+valueTwo = 10;
+
+console.log(sume(2, 3));
