@@ -5,6 +5,7 @@ var persona = {
         calle: 'Los presidentes',
         comuna: 'santiago'
     },
+    cursos: ['Flutter', 'Patrones de diseño', 'SQL'],
     salute: function () {
         console.log('Hola mi nombre es', this.nombre);
     }
