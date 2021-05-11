@@ -6,7 +6,7 @@ enum role {
 let person = {
   name: 'Jochizan',
   courses: ['react', 'angular', 'vue'],
-  role: role.estudiante
+  role: role.profesor
 }
 
 console.log(person);
