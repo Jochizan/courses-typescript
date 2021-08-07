@@ -46,3 +46,4 @@ class Golfer {
 // No error?
 let w: Car = new Golfer();
 
+console.log(w);
