@@ -1,0 +1,11 @@
+# modules npm
+node_modules
+
+# compiled
+dist
+build
+
+# config files
+.vscode
+.idea
+.vim
