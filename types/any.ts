@@ -9,7 +9,7 @@ function padLeft(value: string, padding: StringOrNumber) {
     return padding + value;
   }
 
-  throw new Error(`Espera un string pero recibí ${padding}`);
+  throw new Error(`Esperaba un string pero recibí ${padding}`);
 }
 
 console.log(padLeft('Hello, world', ''));
